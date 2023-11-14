@@ -1,0 +1,11 @@
+.piechart-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: roboto;
+    font-size: 16px;
+  }
+  
+  .piechart-container h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
